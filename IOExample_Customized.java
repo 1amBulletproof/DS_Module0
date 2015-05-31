@@ -2,8 +2,8 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Customized version of IOExample.java  
- * written by brandon tarney
+ * Customized version of IOExample.java which was written by Johns Hopkins University 
+ * customized by brandon tarney
 *
  * A class that writes data to, and reads data from, a file.  To be used as a 
  * template to demonstrate the use of Java File I/O.  Javadoc tags document 
